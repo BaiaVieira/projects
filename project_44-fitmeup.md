@@ -16,7 +16,7 @@ We can also set a pacer for completing the movements in
  
 * Pedro Leite https://pixels.camp/pleite
 * Basilio Vieira https://pixels.camp/baiavieira
-* Daniel Pato https://pixels.camp/danielpvto
+* Daniel Pato https://pixels.camp/danielpato
  
 ## Code repository
  
